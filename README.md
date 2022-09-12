@@ -7,4 +7,4 @@ Comparing Neural Network Pre-trained Models:
 ResNet50, 
 EfficientNet, 
 VGG16, 
-InceptionV3, 
+InceptionV3
